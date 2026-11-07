@@ -1,0 +1,13 @@
+streamlit>=1.40
+pandas>=2.0
+numpy>=1.24
+plotly>=6.1
+scipy>=1.10
+statsmodels>=0.14
+scikit-learn>=1.3
+yfinance>=0.2.40
+prophet>=1.1.5
+optuna>=3.5
+reportlab>=4.0
+kaleido>=1.0      # static PNG export for the PDF / ZIP (needs Chrome: run `plotly_get_chrome` once if missing)
+jinja2>=3.1
